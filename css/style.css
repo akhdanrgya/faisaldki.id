@@ -528,9 +528,6 @@ button:focus {
     font-weight: 400; }
   .single-recent-blog-post:hover img {
     transform: scale(1.23) rotate(10deg); }
-  .latest_blog_area {
-    background-color: #f9f9ff;
-  }
 
 .tags .tag_btn {
   font-size: 12px;
@@ -2930,7 +2927,9 @@ h6 {
 /*----------------------------------------------------*/
 /* Testimonials Area css
 ============================================================================================ */
-
+.testimonials_area {
+  background: #f9f9ff;
+}
   .testimonials_area.testi_two {
     background: #fff; }
     .testimonials_area.testi_two .testi_inner {
@@ -3095,13 +3094,6 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
-
-/* feature item2 */
-
-.projects_area {
-  background-color: #f9f9ff;
-}
-
 
 
  /* end */
