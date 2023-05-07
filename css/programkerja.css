@@ -18,3 +18,9 @@
     -webkit-box-shadow: 4px 7px 43px -3px rgba(0,0,0,0.54);
     -moz-box-shadow: 4px 7px 43px -3px rgba(0,0,0,0.54);;
   }
+
+  .wel_item i {
+    font-size: 24px;
+    background: linear-gradient(to right, #ff2525 0%, #fc6262 70%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; }

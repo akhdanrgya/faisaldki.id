@@ -2704,11 +2704,7 @@ h6 {
   border: 1px solid #eeeeee;
   padding: 30px 25px;
   border-radius: 5px; }
-  .wel_item i {
-    font-size: 24px;
-    background: linear-gradient(to right, #ff2525 0%, #fc6262 70%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; }
+
   .wel_item h4 {
     font-size: 24px;
     font-family: "Heebo", sans-serif;
