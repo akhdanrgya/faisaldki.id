@@ -36,7 +36,10 @@
 	padding: 30px 25px;
 	border-radius: 5px;
 	i{
-
+		font-size: 24px;
+    	background: linear-gradient(to right, #ff2525 0%, #fc6262 70%);
+    	-webkit-background-clip: text;
+    	-webkit-text-fill-color: transparent;
 	}
 	h4{
 		font-size: 24px;
