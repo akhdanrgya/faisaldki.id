@@ -2772,14 +2772,14 @@ h6 {
       .feature_area.feature_tow .feature_item:hover {
         background: #fff; }
 
-#programKerja {
+.programkerja {
   background: rgb(192, 0, 0);
 }
-#programKerja .container .main_title h2 {
+.programkerja .container .main_title h2 {
   color: white;
 }
-#programKerja .container .main_title p {
-  color: rgb(201, 201, 201);
+.programkerja .container .main_title p {
+  color: rgb(221, 221, 221);
 }
 
 
