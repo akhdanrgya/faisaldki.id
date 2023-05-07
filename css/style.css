@@ -421,7 +421,7 @@ button:focus {
   text-transform: uppercase;
   max-width: 300px; }
   .l_blog_item .l_blog_text h4:hover {
-    color: #8490ff; }
+    color: #ff0000; }
 .l_blog_item .l_blog_text p {
   margin-bottom: 0px;
   font-size: 14px;
@@ -2706,7 +2706,7 @@ h6 {
   border-radius: 5px; }
   .wel_item i {
     font-size: 24px;
-    background: linear-gradient(to right, #8490ff 0%, #62bdfc 70%);
+    background: linear-gradient(to right, #ff2525 0%, #fc6262 70%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
   .wel_item h4 {
@@ -2772,20 +2772,8 @@ h6 {
       .feature_area.feature_tow .feature_item:hover {
         background: #fff; }
 
-
-
-
-.kerja h4 {
-  color: black;
-}
-.kerja p {
-  text-align: center;
-}
-
-
 .feature_inner {
   margin-bottom: -30px; }
-
 
   .feature_item i {
     margin-bottom: 35px;
@@ -2793,7 +2781,7 @@ h6 {
     .feature_item i:before {
       margin-left: 0px;
       font-size: 60px;
-      color: #e1e1e1;
+      color: #707070;
       line-height: 60px; }
   .feature_item h4 {
     color: #222222;
@@ -2811,7 +2799,7 @@ h6 {
     box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.08);
     border-color: #fff; }
     .feature_item:hover i:before {
-      background: linear-gradient(to right, #8490ff 0%, #62bdfc 70%);
+      background: linear-gradient(to right, #f90000 0%, #ff5454 70%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent; }
 
