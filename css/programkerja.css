@@ -7,3 +7,9 @@
   .programkerja .container .main_title p {
     color: rgb(221, 221, 221);
   }
+
+  .feature_item {
+    box-shadow: 4px 7px 43px -3px rgba(0,0,0,0.54);
+    -webkit-box-shadow: 4px 7px 43px -3px rgba(0,0,0,0.54);
+    -moz-box-shadow: 4px 7px 43px -3px rgba(0,0,0,0.54);
+  }
