@@ -1,0 +1,9 @@
+.programkerja {
+    background: rgb(192, 0, 0);
+  }
+  .programkerja .container .main_title h2 {
+    color: white;
+  }
+  .programkerja .container .main_title p {
+    color: rgb(221, 221, 221);
+  }
