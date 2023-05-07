@@ -36,10 +36,7 @@
 	padding: 30px 25px;
 	border-radius: 5px;
 	i{
-		font-size: 24px;
-		background: linear-gradient(to right, #ff2b2b 0%, #fc6262 70%);
-		-webkit-background-clip: text;
-		-webkit-text-fill-color: transparent;
+
 	}
 	h4{
 		font-size: 24px;
@@ -129,6 +126,9 @@
 	border-radius: 10px;
 	@include transition;
 	background: #fff;
+	box-shadow: 4px 7px 43px -3px rgba(0,0,0,0.54);
+    -webkit-box-shadow: 4px 7px 43px -3px rgba(0,0,0,0.54);
+    -moz-box-shadow: 4px 7px 43px -3px rgba(0,0,0,0.54);;
 	margin-bottom: 30px;
 	i{
 		margin-bottom: 35px;
@@ -160,7 +160,7 @@
 		border-color: #fff;
 		i{
 			&:before{
-				background: linear-gradient(to right, #8490ff 0%, #62bdfc 70%);
+				background: linear-gradient(to right, #ff2525 0%, #fc6262 70%);
 				-webkit-background-clip: text;
 				-webkit-text-fill-color: transparent;
 			}
