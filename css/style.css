@@ -2871,7 +2871,9 @@ h6 {
 /* Portfolio Details Area css
 ============================================================================================ */
 .portfolio_details_inner .row {
-  margin-bottom: 65px; }
+  margin-bottom: 65px; 
+  height: 50vh;
+}
 .portfolio_details_inner p {
   margin-bottom: 30px;
   font-size: 14px; }
@@ -2883,7 +2885,7 @@ h6 {
     color: #222222;
     font-size: 21px;
     text-transform: uppercase;
-    margin-bottom: 18px; }
+    margin-bottom: px; }
   .portfolio_details_inner .portfolio_right_text p {
     margin-bottom: 25px;
     font-size: 14px; }
@@ -3079,4 +3081,13 @@ h6 {
 
 
  /* end */
+
+ .foto_berita {
+  justify-content: center;
+ }
+
+ .portfolio_details_inner h4 {
+  color: black;
+  
+ }
 
